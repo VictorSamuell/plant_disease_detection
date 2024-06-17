@@ -46,3 +46,13 @@ python scripts/train_model.py
 Criar e ativar o ambiente virtual ( Virtual Enviroment )
 python -m venv env
 
+(Linux ou MAC)
+source env/bin/activate
+
+(Windows) 
+.\env\Scripts\activate
+.\env\Scripts\Activate.ps1
+
+para instalar as dependencias
+pip install -r requirements.txt
+
