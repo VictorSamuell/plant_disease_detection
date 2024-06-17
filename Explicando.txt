@@ -24,6 +24,9 @@ Extraia o conteúdo para o diretório `data/plantvillage/PlantVillage/`.
     ```bash
     python -m venv env
     source env/bin/activate  # Para Windows: .\env\Scripts\activate
+
+.\env\Scripts\Activate.ps1
+
     ```
 
 2. Instale as dependências:
@@ -36,3 +39,10 @@ Extraia o conteúdo para o diretório `data/plantvillage/PlantVillage/`.
 
 ```bash
 python scripts/train_model.py
+
+
+
+-------------------------------------------
+
+
+
