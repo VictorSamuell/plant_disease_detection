@@ -2,6 +2,8 @@ Não é o codigo final.
 PDD - Project
 
 é necessario certos passos para acessar.
+esse não é o codigo funcional
+
 
 # Plant Disease Detection
 
