@@ -43,6 +43,6 @@ python scripts/train_model.py
 
 
 -------------------------------------------
-
-
+Criar e ativar o ambiente virtual ( Virtual Enviroment )
+python -m venv env
 
