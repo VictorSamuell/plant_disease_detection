@@ -56,3 +56,8 @@ source env/bin/activate
 para instalar as dependencias
 pip install -r requirements.txt
 
+para treinar o Modelo
+python scripts/train_model.py
+
+Executar a aplicação flask:
+python app/app.py
